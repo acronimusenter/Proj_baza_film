@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Banner = (props: any) => {
-    return (<nav className="navbar navbar-light bg-secondary">
+    return (<nav className="navbar navbar-light bg-light">
               <div className="container-fluid">
                 <a className="navbar-brand"><img src="https://www.pngfind.com/pngs/m/692-6925042_transparent-icon-video-png-logo-video-3d-png.png" alt="" width="30" height="30"></img>FILMOVELOVE</a>
                 <form className="d-flex">

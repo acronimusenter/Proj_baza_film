@@ -6,7 +6,7 @@ import Footer from './component/Footer.tsx';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" >
         <Banner/>
             <Contain/>
             <Contain/>
